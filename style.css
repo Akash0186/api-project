@@ -143,6 +143,10 @@ body{
 .showRecipe{
     display: block;
 }
+
+#ingredient-style li{
+    list-style: none;
+}
 .meal-details-content{
     margin: 2rem;
 }
